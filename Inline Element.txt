@@ -1,0 +1,19 @@
+<html>
+<body>
+
+<h1>Inline Element</h1>
+<em> This is a test data </em> <br>
+<strong> This is a test data </strong> <br>
+<b> This is a test data </b> <br>
+<u> This is a test data </u> <br>
+<s> This is a test data </s> <br>
+<small> This is a test data </small> <br>
+This is a test <dfn> data </dfn> <br>
+<q> This is a test data </q> <br>
+<abbr title="Web Design"> WD </abbr> <br
+water=H <sup>2</sup> O <br>
+E=mc<sub>2</sud><br>
+extra<wbr>ordinary<br>
+
+</body>
+</html>
