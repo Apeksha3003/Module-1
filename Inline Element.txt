@@ -10,10 +10,10 @@
 <small> This is a test data </small> <br>
 This is a test <dfn> data </dfn> <br>
 <q> This is a test data </q> <br>
-<abbr title="Web Design"> WD </abbr> <br
-water=H <sup>2</sup> O <br>
+<abbr title="Web Design"> WD </abbr> <br>
+Water=H<sup>2</sup>O<br>
 E=mc<sub>2</sud><br>
-extra<wbr>ordinary<br>
+extra<wbr>ordinary
 
 </body>
 </html>
